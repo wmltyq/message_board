@@ -2,7 +2,7 @@
 进入项目根目录，运行以下命令
 ```
 # 安装依赖
-pip install -r requirement.txt
+pip install -r requirements.txt
 
 # 运行Web
 python guestbook.py
