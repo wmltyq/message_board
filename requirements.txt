@@ -73,7 +73,7 @@ pyexcel-io==0.5.9.1
 pyexcel-webio==0.1.4
 PyExecJS==1.5.1
 PyHamcrest==1.9.0
-PyJWT==1.6.4
+PyJWT==2.4.0
 pymongo==3.5.1
 PyMySQL==0.9.2
 pyOpenSSL==18.0.0
