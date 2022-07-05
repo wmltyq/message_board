@@ -65,7 +65,7 @@ protobuf==3.6.1
 pusherclient==0.3.0
 pyasn1==0.4.4
 pyasn1-modules==0.2.2
-pycares==2.3.0
+pycares==4.2.0
 pycparser==2.19
 pycryptodome==3.7.0
 pyexcel==0.5.9.1
