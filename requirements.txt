@@ -61,7 +61,7 @@ mysql-connector==2.1.6
 numpy==1.15.2
 openpyxl==2.5.9
 pandas==0.23.4
-protobuf==3.6.1
+protobuf==3.18.3
 pusherclient==0.3.0
 pyasn1==0.4.4
 pyasn1-modules==0.2.2
