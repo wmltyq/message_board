@@ -17,7 +17,7 @@ bs4==0.0.1
 btfxwss==1.2.4
 cbpro==1.1.4
 ccxt==1.17.520
-certifi==2018.8.24
+certifi==2022.12.7
 cffi==1.11.5
 chardet==3.0.4
 Click==7.0
